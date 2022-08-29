@@ -1,3 +1,12 @@
+# Meet's First CS193 Homework
+
+- Many favorite things about CS193, but I will list only some.
+- Only one lecture/meet throughout the week, unlike MA261 which is 3 times a week at 7:30 in the morning.
+- The Instructors are very welcoming.
+- Small classes makes it very easy to adapt.
+- Most importantly, as the syllabus stated, there will be NO EXAMS/MIDTERMS!!!!! :D
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
